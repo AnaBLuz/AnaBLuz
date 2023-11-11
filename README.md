@@ -208,23 +208,6 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwindcss
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Bootstrap
-      </td>
-      <td>
-        <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
           alt="figma"
           width="40"
@@ -236,42 +219,6 @@
     <tr>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Python
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-          alt="flask"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Flask
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Java
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Spring Boot
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
           height="40"
           alt="git logo"
@@ -280,47 +227,6 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=linux"
-          height="40"
-          alt="linux logo"
-        />
-        <img width="12" /> Linux
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/gnubash/4EAA25"
-          height="40"
-          alt="bash logo"
-        />
-        <img width="12" /> Bash
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-          alt="nginx"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Nginx
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-          height="40"
-          alt="amazonwebservices logo"
-        />
-        <img width="12" /> AWS
-      </td>
     </tr>
     <tr>
       <td>
